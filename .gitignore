@@ -1,0 +1,13 @@
+.DS_Store
+ffmpeg_src
+*.bz2
+*.tgz
+*.so
+src/**/bin
+*test*
+out/*
+log/*
+desktop.ini
+coverage
+src/**/std_toolchain
+tmp
